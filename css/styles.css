@@ -154,7 +154,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #badfff
+    background-image: linear-gradient(to right bottom, #8fc1fa, #99c6fb, #a2cbfb, #abd0fc, #b4d5fc, #bcdafc, #c4defd, #cce3fd, #d5e8fd, #dfedfe, #e8f2fe, #f1f7fe);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
