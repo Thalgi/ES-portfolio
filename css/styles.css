@@ -10027,7 +10027,7 @@ p {
 }
 
 ::selection {
-  background:#79b5d1;
+  background: linear-gradient(to right bottom, #a8cefb, #acd1fb, #b1d4fc, #b5d6fc, #bad9fc, #bedbfc, #c2defc, #c6e0fc, #cae3fc, #cfe5fc, #d3e8fd, #d8eafd);
   text-shadow: none;
 }
 
