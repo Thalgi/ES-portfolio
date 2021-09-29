@@ -94,6 +94,14 @@
     height: 128px
 }
 
+#services {
+    background-image: linear-gradient(to right bottom, #8fc1fa, #99c6fb, #a2cbfb, #abd0fc, #b4d5fc, #bcdafc, #c4defd, #cce3fd, #d5e8fd, #dfedfe, #e8f2fe, #f1f7fe);
+}
+
+#about{
+    background-image: linear-gradient(to right bottom, #8fc1fa, #99c6fb, #a2cbfb, #abd0fc, #b4d5fc, #bcdafc, #c4defd, #cce3fd, #d5e8fd, #dfedfe, #e8f2fe, #f1f7fe);
+  }
+
 @media (min-width: 576px) {
     #maincontainer {
         scroll-padding-top: 90px
