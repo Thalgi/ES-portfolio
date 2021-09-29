@@ -10157,6 +10157,7 @@ header.masthead .masthead-heading {
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 12.5rem;
+    margin-top: 150px;
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
