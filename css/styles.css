@@ -785,14 +785,24 @@ textarea {
 
 @media (max-width: 575.98px) {
     .masthead {
-        margin-top: 90px
+        margin-top: 90px;
+        height: 320px;
     }
+    #maincontainer{
+        padding-top: 50px;
+    }
+
 }
 
 @media (max-width: 767.98px) {
     .masthead {
-        margin-top: 90px
+        margin-top: 90px;
+        height: 320px;
     }
+    #maincontainer{
+        padding-top: 50px;
+    }
+
 }
 
 @media (max-width: 991.98px) {
@@ -3626,7 +3636,8 @@ header.masthead .masthead-heading {
 @media (min-width: 768px) {
     header.masthead {
         padding-top: 17rem;
-        padding-bottom: 12.5rem
+        padding-bottom: 12.5rem;
+
     }
 
     header.masthead .masthead-subheading {
