@@ -23,7 +23,11 @@
   width: 128px;
   height: 128px;
 }
-
+@media (min-width: 576px){
+  #maincontainer{
+    scroll-padding-top: 90px;
+  }
+}
 
 :root {
   --blue: #007bff;
