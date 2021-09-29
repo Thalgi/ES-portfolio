@@ -1934,6 +1934,9 @@ pre code {
   .table-responsive-sm > .table-bordered {
     border: 0;
   }
+  .masthead{
+    margin-top: 90px;
+  }
 }
 @media (max-width: 767.98px) {
   .table-responsive-md {
@@ -1945,6 +1948,9 @@ pre code {
   .table-responsive-md > .table-bordered {
     border: 0;
   }
+  .masthead{
+    margin-top: 90px;
+  }
 }
 @media (max-width: 991.98px) {
   .table-responsive-lg {
@@ -1955,6 +1961,9 @@ pre code {
   }
   .table-responsive-lg > .table-bordered {
     border: 0;
+  }
+  .masthead{
+    margin-top: 90px;
   }
 }
 @media (max-width: 1199.98px) {
@@ -10155,9 +10164,9 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
+
     padding-top: 17rem;
     padding-bottom: 12.5rem;
-    margin-top: 150px;
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
