@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Evershapes Portfolio first iteration
 
-You can use the [editor on GitHub](https://github.com/Thalgi/ES-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+First iteration of the development of the front website Evershapes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Future Roadmap
 
-### Markdown
+The completion of this website will ring the start of the main development of the future website orbiting around Evershapes 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### See our work (for now)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thalgi/ES-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our twitter is right [there](https://twitter.com/evershapesmc?lang=fr) 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wishing to participate in a well-made project started since Nov 2020 ? Don't hesitate and contact us
