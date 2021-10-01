@@ -1034,15 +1034,15 @@ textarea.form-control {
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #fec810;
-    border-color: #fec503
+    background-color: #a7d7c9;
+    border-color: #74ecce
 }
 
 .btn-primary:focus {
     color: #fff;
-    background-color: #fec810;
-    border-color: #fec503;
-    box-shadow: 0 0 0 .2rem rgba(254, 216, 84, .5)
+    background-color: #252522;
+    border-color: #7c796e;
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.5)
 }
 
 .btn-primary:disabled {
@@ -1053,12 +1053,12 @@ textarea.form-control {
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f3bd01
+    background-color: #a0f5ed;
+    border-color: #ffffff
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus {
-    box-shadow: 0 0 0 .2rem rgba(254, 216, 84, .5)
+    box-shadow: 0 0 0 .2rem rgba(255, 254, 254, 0.5)
 }
 
 .btn-success {
