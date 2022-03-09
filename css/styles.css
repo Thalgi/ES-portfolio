@@ -178,6 +178,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: .5rem
+
 }
 
 p {
@@ -403,7 +404,7 @@ textarea {
 
 @media (min-width: 1200px) {
     .container, .container-lg, .container-md, .container-sm, .container-xl {
-        max-width: 1140px
+        max-width: 1600px
     }
 }
 
@@ -3662,7 +3663,7 @@ header.masthead .masthead-heading {
 }
 
 #portfolio .portfolio-item {
-    max-width: 25rem;
+    max-width: 60rem;
     margin-left: auto;
     margin-right: auto
 }
